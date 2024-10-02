@@ -1,0 +1,95 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+  
+
+
+/* * RESETS CSS */ 
+/* set the root font size for tialwind class */
+html{
+  font-size: 16px;
+}
+
+/* set the root body default class */
+body{
+  @apply text-slate-800 leading-6 text-base font-normal bg-white 
+  dark:text-slate-100 appearance-none
+}
+
+@layer base {
+
+    a{
+        @apply cursor-pointer 
+    }
+    svg{
+        @apply text-primary-900 cursor-pointer
+    }
+
+}
+
+
+
+@layer components {
+    .grid-hero {
+      display: grid;
+      grid-template-rows: auto;
+      grid-template-columns: 1fr; 
+      margin-top: 32px;
+      gap: 32px;
+      grid-template-areas: "swiper";
+
+      @media (min-width:992px) {
+        grid-template-columns: auto 1fr 1fr; 
+        grid-template-rows:  auto ;
+        grid-template-areas: 
+        "menu swiper swiper"
+        ;
+      }
+
+      @media (min-width:1280px) {
+        grid-template-columns: auto 1fr 1fr 1fr; 
+        grid-template-rows:  auto ;
+        grid-template-areas: 
+        "menu swiper swiper swiper swiper"
+        ;
+      }
+      
+      @media (min-width:1535px) {
+        grid-template-columns: auto 1fr 1fr 1fr; 
+        grid-template-rows:  auto ;
+        grid-template-areas: 
+        "menu swiper swiper swiper"
+        ;
+      }
+    }
+
+    .grid-area-menu{
+        grid-area: menu;
+        height: auto;
+        border-radius:4px;
+        box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    }.grid-area-swiper{
+        grid-area: swiper;
+        height: auto;
+        box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    }
+    .flashSwiper{
+      padding-block: 50px !important;
+    }
+
+    
+
+}
+
+/* .MuiRating-icon{
+  width: 16px;
+  height: 16px;
+}
+
+.MuiRating-readOnly{
+  font-size: 20px !important; 
+}
+.MuiRating-root{
+  display: flex;
+  gap: 8px;
+}  */

@@ -1,0 +1,26 @@
+[
+{
+  "_id": {
+    "$oid": "66bd459a5955b4141fb57ac2"
+  },
+  "name": "admin",
+  "email": "admin@gmail.com",
+  "password": "$2b$12$yGmxJmJx3uie3n.L0cz7s..T1/cskqWcwbLdUli5msOSZbRlpTBGC",
+  "role": "admin",
+  "resetCode": {
+    "expireAt": {
+      "$date": "2024-08-15T00:11:51.432Z"
+    }
+  },
+  "image": "https://cdn-icons-png.flaticon.com/128/236/236831.png",
+  "emailVerified": false,
+  "defaultPaymentMethod": "",
+  "address": [],
+  "createdAt": {
+    "$date": "2024-08-15T00:02:34.812Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-15T00:02:34.812Z"
+  },
+  "__v": 0
+}]

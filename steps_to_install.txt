@@ -1,0 +1,32 @@
+1-  Download the source code
+
+2-  Unzip
+
+3-  open project with your editor
+
+4-  open the terminal
+
+5-  run "npm install"
+
+6- Get api for each third party 
+	
+	GOOGLE ACCOUNT => needed to send newsletter email
+	MONGODB_URI => download necessary plugin such as mongosh, mongo compass, create a cluster, create database
+	APIREGISTRY_API => needed for location 
+	STRIPE => order processing
+	CLOUDINARY => image downloading
+	
+7- Run command "npm run dev" to create database testdata 
+
+8- Import the user collection from data folder to your database 
+
+10 - import all collections to your mongo db databases for dymmy test if you want
+
+11- go to login page : 
+
+12- login with 
+	
+	
+	login :  admin@gmail.com
+	password:  Admin2024&
+

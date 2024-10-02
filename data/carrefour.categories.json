@@ -1,0 +1,231 @@
+[{
+  "_id": {
+    "$oid": "668544806c0c5a9794adb754"
+  },
+  "name": "mobiles",
+  "slug": "mobiles",
+  "createdAt": {
+    "$date": "2024-07-03T12:30:56.952Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-15T01:58:43.685Z"
+  },
+  "__v": 0,
+  "submenu": [
+    {
+      "$oid": "66963b8ec0799df232e21859"
+    },
+    {
+      "$oid": "6685a15a8a0761593b5fdf30"
+    },
+    {
+      "$oid": "6685a1408a0761593b5fdf2b"
+    },
+    {
+      "$oid": "66bd60d333e03e62c550b9de"
+    }
+  ],
+  "link": "mobiles",
+  "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1721644333/UAP07Ygha9iXNfG1Rh6DYWrwVQ3HfkuqetLaLc6M_gesb5u.jpg"
+},
+{
+  "_id": {
+    "$oid": "668544b76c0c5a9794adb75c"
+  },
+  "name": "televisions",
+  "slug": "televisions",
+  "createdAt": {
+    "$date": "2024-07-03T12:31:51.217Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-16T15:31:12.742Z"
+  },
+  "__v": 0,
+  "link": "televisions",
+  "submenu": [],
+  "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1721644383/sjBHD1SNqe4BgkqmvqmWAB7U759HOZPVJRvV1Qbr_e9tsny.png"
+},
+{
+  "_id": {
+    "$oid": "6685449e6c0c5a9794adb758"
+  },
+  "name": "consumer electronics",
+  "slug": "consumer-electronics",
+  "createdAt": {
+    "$date": "2024-07-03T12:31:26.689Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-16T15:31:22.779Z"
+  },
+  "__v": 0,
+  "link": "consumer-electronics",
+  "submenu": [],
+  "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1721644549/T9hhgFKDnw98wDQwjF2krrnKQbbLC9CV0moMOAyF_hzvqgn.jpg"
+},
+{
+  "_id": {
+    "$oid": "668545aa6c0c5a9794adb778"
+  },
+  "name": "headphones",
+  "slug": "headphones",
+  "createdAt": {
+    "$date": "2024-07-03T12:35:54.957Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T01:52:04.396Z"
+  },
+  "__v": 0,
+  "link": "headphones",
+  "submenu": [
+    {
+      "$oid": "66ac3bc47821c5f37137dc81"
+    }
+  ],
+  "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1721652259/AejJcBztvGVJchDp3EXwbSyN82q7IWr6fW2SijJC_ifgnkq.jpg"
+},
+{
+  "_id": {
+    "$oid": "6685458f6c0c5a9794adb770"
+  },
+  "name": "backpacks",
+  "slug": "backpacks",
+  "createdAt": {
+    "$date": "2024-07-03T12:35:27.803Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-16T15:30:48.690Z"
+  },
+  "__v": 0,
+  "link": "backpacks",
+  "submenu": [],
+  "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1721644549/T9hhgFKDnw98wDQwjF2krrnKQbbLC9CV0moMOAyF_hzvqgn.jpg"
+},
+{
+  "_id": {
+    "$oid": "668545b56c0c5a9794adb77c"
+  },
+  "name": "hot sale",
+  "slug": "hot-sale",
+  "createdAt": {
+    "$date": "2024-07-03T12:36:05.093Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-16T15:40:44.686Z"
+  },
+  "__v": 0,
+  "link": "hot-sale",
+  "submenu": [],
+  "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1721648418/WdwZiJqxwq3mHkSdd2FK940ahSxKj8zv4znTgRZB_b9qacu.webp"
+},
+{
+  "_id": {
+    "$oid": "66969377d0776db430386ddc"
+  },
+  "name": "women's fashion",
+  "slug": "womens-fashion",
+  "submenu": [
+    {
+      "$oid": "66be2cf27af5645df36c4512"
+    },
+    {
+      "$oid": "66d0f83adcad41c50bd23bdf"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-16T15:36:23.145Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-29T22:37:46.649Z"
+  },
+  "__v": 0,
+  "link": "womens-fashion",
+  "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1721648031/4vy12UtugCqB76AoWvy0cAHlzKb1HZsklmkOQ6hK_r0dyjn.jpg"
+},
+{
+  "_id": {
+    "$oid": "668544f16c0c5a9794adb766"
+  },
+  "name": "fashion",
+  "slug": "fashion",
+  "createdAt": {
+    "$date": "2024-07-03T12:32:49.228Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-16T15:54:12.174Z"
+  },
+  "__v": 0,
+  "submenu": [
+    {
+      "$oid": "66963a53c0799df232e21841"
+    }
+  ],
+  "link": "fashion",
+  "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1721644549/T9hhgFKDnw98wDQwjF2krrnKQbbLC9CV0moMOAyF_hzvqgn.jpg"
+},
+{
+  "_id": {
+    "$oid": "6685459f6c0c5a9794adb774"
+  },
+  "name": "tablets",
+  "slug": "tablets",
+  "createdAt": {
+    "$date": "2024-07-03T12:35:43.970Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-16T15:30:42.022Z"
+  },
+  "__v": 0,
+  "link": "tablets",
+  "submenu": [],
+  "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1721652357/hcTV9LA7ioqmbK9vPyZTNfW33tnk02Z6GWY4r9gs_ojzvfg.jpg"
+},
+{
+  "_id": {
+    "$oid": "668542de6c0c5a9794adb74a"
+  },
+  "name": "electronics",
+  "createdAt": {
+    "$date": "2024-07-03T12:23:58.325Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-16T16:10:41.354Z"
+  },
+  "__v": 0,
+  "slug": "electronics",
+  "submenu": [
+    {
+      "$oid": "669637c65798c9eb94de8227"
+    },
+    {
+      "$oid": "6694c711c2c44bfe362001de"
+    },
+    {
+      "$oid": "66855ae26c0c5a9794adb844"
+    },
+    {
+      "$oid": "66855ac96c0c5a9794adb83f"
+    },
+    {
+      "$oid": "66855aa96c0c5a9794adb83a"
+    }
+  ],
+  "link": "electronics",
+  "image": "https://demo.fleetcart.envaysoft.com/storage/media/2cZfkz85nXxlSTySz6R8m34u5UQLfiRQVyKjF8hm.png"
+},
+{
+  "_id": {
+    "$oid": "668544e16c0c5a9794adb762"
+  },
+  "name": "watches",
+  "slug": "watches",
+  "createdAt": {
+    "$date": "2024-07-03T12:32:33.341Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-16T15:40:52.579Z"
+  },
+  "__v": 0,
+  "link": "watches",
+  "submenu": [],
+  "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1721644460/0Ae4WkaGunLTgTDf24i2ui0hhGB2kZPRVS5k7rn8_zjcrvy.jpg"
+}]

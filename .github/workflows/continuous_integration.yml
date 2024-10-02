@@ -1,0 +1,72 @@
+name: CI ( Continuous integration )
+
+on:
+  push:
+    branches:
+      - main
+
+env:
+  MONGODB_URI: mongodb+srv://sylvaincodeur:Adandesylvain2022&@cluster0.rejyevo.mongodb.net/fullstack_ecommerce
+  baseUrl: http://localhost:3000
+  # Use docker.io for Docker Hub if empty
+  REGISTRY: ghcr.io
+  IMAGE_NAME: ${{ github.actor }}/carrefour_docker_image:latest
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+       - name: Checkout Code
+         uses: actions/checkout@v4
+
+       - name: Install Node
+         uses: actions/setup-node@v4
+         with:
+          node-version: 20.x
+
+       - name: Install Netlify
+         run: npm install netlify-cli -g
+
+       - name: Install Dependencies
+         run: npm install
+
+       - name: Build Project
+         run:  npm run build
+
+       - name: Checkout typescript errors
+         run:  npm i -g typescript &&  tsc
+         
+       - name: Checkout lint errors
+         run:  npm run eslint
+
+       - name: Launch Unit and Integration test
+         run:  npm run test
+      
+       - name: Save build folder
+         uses: actions/upload-artifact@v4
+         with:
+           name: build
+           if-no-files-found: error
+           path: build
+         
+  
+  cypress-run:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+            - name: Checkout
+              uses: actions/checkout@v4
+      
+            - name: Download the build folder
+              uses: actions/download-artifact@v4
+              with:
+                name: build
+                path: build
+      
+            - name: Cypress run
+              uses: cypress-io/github-action@v6
+              with:
+                start: npm start
+                browser: chrome
+      

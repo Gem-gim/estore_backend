@@ -1,0 +1,198 @@
+[{
+  "_id": {
+    "$oid": "66855aa96c0c5a9794adb83a"
+  },
+  "name": "mobiles",
+  "slug": "mobiles",
+  "parent": {
+    "$oid": "668542de6c0c5a9794adb74a"
+  },
+  "createdAt": {
+    "$date": "2024-07-03T14:05:30.016Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-16T16:10:41.342Z"
+  },
+  "__v": 0,
+  "link": "mobiles"
+},
+{
+  "_id": {
+    "$oid": "6685a1408a0761593b5fdf2b"
+  },
+  "parent": {
+    "$oid": "668544806c0c5a9794adb754"
+  },
+  "name": "iphone",
+  "slug": "iphone",
+  "createdAt": {
+    "$date": "2024-07-03T19:06:40.745Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-16T16:08:48.738Z"
+  },
+  "__v": 0,
+  "link": "iphone"
+},
+{
+  "_id": {
+    "$oid": "6685a15a8a0761593b5fdf30"
+  },
+  "parent": {
+    "$oid": "668544806c0c5a9794adb754"
+  },
+  "name": "android",
+  "slug": "android",
+  "createdAt": {
+    "$date": "2024-07-03T19:07:06.156Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-16T16:08:34.688Z"
+  },
+  "__v": 0,
+  "link": "android"
+},
+{
+  "_id": {
+    "$oid": "66855ae26c0c5a9794adb844"
+  },
+  "name": "computers accessories",
+  "slug": "computers-accessories",
+  "parent": {
+    "$oid": "668542de6c0c5a9794adb74a"
+  },
+  "createdAt": {
+    "$date": "2024-07-03T14:06:26.701Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-16T16:09:04.098Z"
+  },
+  "__v": 0,
+  "link": "computers-accessories"
+},
+{
+  "_id": {
+    "$oid": "669637c65798c9eb94de8227"
+  },
+  "parent": {
+    "$oid": "668542de6c0c5a9794adb74a"
+  },
+  "name": "hot brands",
+  "slug": "hot-brands",
+  "createdAt": {
+    "$date": "2024-07-16T09:05:10.098Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-16T15:54:59.366Z"
+  },
+  "__v": 0,
+  "link": "hot-brands"
+},
+{
+  "_id": {
+    "$oid": "66963a53c0799df232e21841"
+  },
+  "parent": {
+    "$oid": "668544f16c0c5a9794adb766"
+  },
+  "name": "mens fashion",
+  "slug": "mens-fashion",
+  "createdAt": {
+    "$date": "2024-07-16T09:16:03.520Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-16T15:54:12.152Z"
+  },
+  "__v": 0,
+  "link": "mens-fashion"
+},
+{
+  "_id": {
+    "$oid": "66855ac96c0c5a9794adb83f"
+  },
+  "name": "laptops",
+  "slug": "laptops",
+  "parent": {
+    "$oid": "668542de6c0c5a9794adb74a"
+  },
+  "createdAt": {
+    "$date": "2024-07-03T14:06:01.608Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-16T16:09:18.020Z"
+  },
+  "__v": 0,
+  "link": "laptops"
+},
+{
+  "_id": {
+    "$oid": "6694c711c2c44bfe362001de"
+  },
+  "parent": {
+    "$oid": "668542de6c0c5a9794adb74a"
+  },
+  "name": "monitors",
+  "slug": "monitors",
+  "createdAt": {
+    "$date": "2024-07-15T06:52:01.508Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-16T16:08:17.876Z"
+  },
+  "__v": 0,
+  "link": "monitors"
+},
+{
+  "_id": {
+    "$oid": "66ac3bc47821c5f37137dc81"
+  },
+  "name": "air pods",
+  "slug": "air-pods",
+  "link": "airpods",
+  "parent": {
+    "$oid": "668545aa6c0c5a9794adb778"
+  },
+  "createdAt": {
+    "$date": "2024-08-02T01:52:04.297Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-02T01:52:04.297Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bd60d333e03e62c550b9de"
+  },
+  "name": "redmi",
+  "slug": "redmi",
+  "link": "redmi",
+  "parent": {
+    "$oid": "668544806c0c5a9794adb754"
+  },
+  "createdAt": {
+    "$date": "2024-08-15T01:58:43.573Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-15T01:58:43.573Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66be2cf27af5645df36c4512"
+  },
+  "name": "shirt",
+  "slug": "shirt",
+  "link": "link",
+  "parent": {
+    "$oid": "66969377d0776db430386ddc"
+  },
+  "createdAt": {
+    "$date": "2024-08-15T16:29:38.386Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-15T16:29:38.386Z"
+  },
+  "__v": 0
+}]

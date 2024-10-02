@@ -1,0 +1,983 @@
+[{
+  "_id": {
+    "$oid": "66a7eddd087c8328bd991a20"
+  },
+  "name": "esr for iphone 15 pro max case with magsafe, supports magnetic charging, slim",
+  "slug": "esr-for-iphone-15-pro-max-case-with-magsafe-supports-magnetic-charging-slim",
+  "description": "esr for iphone 15 pro max case with magsafe, supports magnetic charging, slim liquid silicone case, shock absorbing, screen and camera protection, cloud series, light blue",
+  "category": {
+    "$oid": "668544806c0c5a9794adb754"
+  },
+  "subCategories": [
+    {
+      "$oid": "6685a1408a0761593b5fdf2b"
+    }
+  ],
+  "brand": {
+    "$oid": "668ad981ed4b0a535cfa6018"
+  },
+  "details": [],
+  "questions": [],
+  "reviews": [
+    {
+      "$oid": "66bcf91406b720644176d77c"
+    },
+    {
+      "$oid": "66c08aaf86140fb961dbade5"
+    },
+    {
+      "$oid": "66c08abd86140fb961dbadec"
+    },
+    {
+      "$oid": "66c08abe86140fb961dbadf3"
+    },
+    {
+      "$oid": "66c08abf86140fb961dbadfa"
+    },
+    {
+      "$oid": "66c08ac086140fb961dbae01"
+    },
+    {
+      "$oid": "66c08ac086140fb961dbae08"
+    },
+    {
+      "$oid": "66c08ac186140fb961dbae0f"
+    },
+    {
+      "$oid": "66c08ac286140fb961dbae16"
+    },
+    {
+      "$oid": "66c08ac386140fb961dbae1d"
+    },
+    {
+      "$oid": "66c1d77b65158340d7e10e46"
+    },
+    {
+      "$oid": "66c81d44c500ded81297d6f1"
+    },
+    {
+      "$oid": "66d32bbc594a9c19b48802b3"
+    }
+  ],
+  "subProducts": [
+    {
+      "sku": "02938NEA",
+      "style": {
+        "color": "#add8e6",
+        "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722281464/ecommerce-carrefour/71feD_7EVuL._AC_SL1500__aflkpp.jpg",
+        "name": "Light blue"
+      },
+      "options": [
+        {
+          "qty": 3,
+          "price": 1059,
+          "sold": 0,
+          "option": "iphone 15 pro",
+          "images": [
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722281606/ecommerce-carrefour/71feD_7EVuL._AC_SL1500__yprkck.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722281615/ecommerce-carrefour/61Tekt4mtkL._AC_SL1500__nmezgs.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722281620/ecommerce-carrefour/71eRKbpDW6L._AC_SL1500__vu9azu.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722281624/ecommerce-carrefour/81-p6F3jw_L._AC_SL1500__ccvusk.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722281629/ecommerce-carrefour/616Ujnw6sJL._AC_SL1500__a4xjdz.jpg"
+          ],
+          "discount": 0,
+          "_id": {
+            "$oid": "66a7ef13087c8328bd991a3f"
+          }
+        },
+        {
+          "qty": 3,
+          "price": 1059,
+          "sold": 0,
+          "option": "iphone 15 plus",
+          "images": [
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722281606/ecommerce-carrefour/71feD_7EVuL._AC_SL1500__yprkck.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722281615/ecommerce-carrefour/61Tekt4mtkL._AC_SL1500__nmezgs.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722281620/ecommerce-carrefour/71eRKbpDW6L._AC_SL1500__vu9azu.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722281624/ecommerce-carrefour/81-p6F3jw_L._AC_SL1500__ccvusk.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722281629/ecommerce-carrefour/616Ujnw6sJL._AC_SL1500__a4xjdz.jpg"
+          ],
+          "discount": 10,
+          "_id": {
+            "$oid": "66a7ef13087c8328bd991a40"
+          }
+        },
+        {
+          "qty": 3,
+          "price": 1059,
+          "sold": 0,
+          "option": "iphone 15 pro max",
+          "images": [
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722281606/ecommerce-carrefour/71feD_7EVuL._AC_SL1500__yprkck.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722281615/ecommerce-carrefour/61Tekt4mtkL._AC_SL1500__nmezgs.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722281620/ecommerce-carrefour/71eRKbpDW6L._AC_SL1500__vu9azu.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722281624/ecommerce-carrefour/81-p6F3jw_L._AC_SL1500__ccvusk.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722281629/ecommerce-carrefour/616Ujnw6sJL._AC_SL1500__a4xjdz.jpg"
+          ],
+          "discount": 10,
+          "_id": {
+            "$oid": "66a7ef13087c8328bd991a41"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66a7ef13087c8328bd991a3e"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-29T19:30:37.546Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-31T14:42:04.880Z"
+  },
+  "__v": 0,
+  "featured": false,
+  "content": "esr for iphone 15 pro max case with magsafe, supports magnetic charging, slim liquid silicone case, shock absorbing, screen and camera protection, cloud series, light blue"
+},
+{
+  "_id": {
+    "$oid": "66a7b7c037ca620c659ee620"
+  },
+  "name": "apple 2022 macbook pro laptop with m2 chip: 13-inch retina display, 8gb ram, 512gb",
+  "slug": "apple-2022-macbook-pro-laptop-with-m2-chip-13-inch-retina-display-8gb-ram-512gb",
+  "description": "apple 2022 macbook pro laptop with m2 chip: 13-inch retina display, 8gb ram, 512gb ​​​​​​​ssd ​​​​​​​storage, touch bar, backlit keyboard, facetime hd camera. works with iphone and ipad; space gray",
+  "category": {
+    "$oid": "668542de6c0c5a9794adb74a"
+  },
+  "subCategories": [
+    {
+      "$oid": "66855ac96c0c5a9794adb83f"
+    }
+  ],
+  "brand": {
+    "$oid": "668ad981ed4b0a535cfa6018"
+  },
+  "details": [
+    {
+      "name": "Display",
+      "value": "13.3-inch (diagonal) LED-backlit display with IPS technology; 2560-by-1600 native resolution at 227 pixels per inch with support for millions of colors, 500 nits brightness, Wide color (P3), True Tone technology",
+      "_id": {
+        "$oid": "66a7d230087c8328bd991004"
+      }
+    },
+    {
+      "name": "Processor",
+      "value": "System on Chip (SoC), Apple M2 chip, Up to 8-core CPU with 4 performance cores and 4 efficiency cores, 10-core GPU, 16-core Neural Engine, 100GB/s memory bandwidth",
+      "_id": {
+        "$oid": "66a7d230087c8328bd991005"
+      }
+    },
+    {
+      "name": "Graphics and Video Support",
+      "value": "Apple 10-core GPU",
+      "_id": {
+        "$oid": "66a7d230087c8328bd991006"
+      }
+    },
+    {
+      "name": "Charging and Expansion",
+      "value": "Two Thunderbolt / USB 4 ports with support for: Charging, DisplayPort, Thunderbolt 3 (up to 40Gb/s), USB 4 (up to 40Gb/s), USB 3.1 Gen 2 (up to 10Gb/s",
+      "_id": {
+        "$oid": "66a7d230087c8328bd991007"
+      }
+    },
+    {
+      "name": "Wireless",
+      "value": "Wi-Fi 802.11ax Wi-Fi 6 wireless networking; IEEE 802.11a/b/g/n compatible, Bluetooth 5.0 wireless technology",
+      "_id": {
+        "$oid": "66a7d230087c8328bd991008"
+      }
+    },
+    {
+      "name": "In the Box",
+      "value": "13-inch MacBook Pro, 67W USB-C Power Adapter, USB-C Charge Cable (2 m)",
+      "_id": {
+        "$oid": "66a7d230087c8328bd991009"
+      }
+    },
+    {
+      "name": "Height",
+      "value": "0.61 inch (1.56 cm)",
+      "_id": {
+        "$oid": "66a7d230087c8328bd99100a"
+      }
+    },
+    {
+      "name": "Width",
+      "value": "11.97 inches (30.41 cm)",
+      "_id": {
+        "$oid": "66a7d230087c8328bd99100b"
+      }
+    },
+    {
+      "name": "Depth",
+      "value": "8.36 inches (21.24 cm)",
+      "_id": {
+        "$oid": "66a7d230087c8328bd99100c"
+      }
+    },
+    {
+      "name": "Weight",
+      "value": "3.0 pounds (1.4 kg)",
+      "_id": {
+        "$oid": "66a7d230087c8328bd99100d"
+      }
+    },
+    {
+      "name": "Release Date",
+      "value": "6/24/2022",
+      "_id": {
+        "$oid": "66a7d230087c8328bd99100e"
+      }
+    }
+  ],
+  "questions": [],
+  "reviews": [
+    {
+      "$oid": "66b69ff6d6e7bd5c47075b46"
+    },
+    {
+      "$oid": "66c01477e6648312717c9ae1"
+    },
+    {
+      "$oid": "66c01495e6648312717c9b17"
+    }
+  ],
+  "subProducts": [
+    {
+      "sku": "02938NBH",
+      "style": {
+        "color": "#cccccc",
+        "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722272628/ecommerce-carrefour/silver_color_vorexg.jpg",
+        "name": "silver"
+      },
+      "options": [
+        {
+          "qty": 8,
+          "price": 1524.95,
+          "sold": 0,
+          "option": "silver",
+          "images": [
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722272862/ecommerce-carrefour/silver_1_fiuvtq.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722272869/ecommerce-carrefour/silver_2_vwxiqj.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722272877/ecommerce-carrefour/silver_3_xih3xz.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722272908/ecommerce-carrefour/61ZSD7-0gpL._AC_SL1500__brfkqg.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722272951/ecommerce-carrefour/71Y5Zhy6xNL._AC_SL1500__gqv9fr.jpg"
+          ],
+          "discount": 0,
+          "_id": {
+            "$oid": "66a7cd19087c8328bd990f44"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66a7cd19087c8328bd990f43"
+      }
+    },
+    {
+      "sku": "02938NBI",
+      "style": {
+        "color": "#9b9292",
+        "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722273118/ecommerce-carrefour/gray_utr4ny.png",
+        "name": "gray"
+      },
+      "options": [
+        {
+          "qty": 14,
+          "price": 1494.95,
+          "sold": 0,
+          "option": "space gray",
+          "images": [
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722273072/ecommerce-carrefour/61L5QgPvgqL._AC_SX522__jzuqjd.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722273081/ecommerce-carrefour/71K_bhq9bZL._AC_SL1500__lemt9w.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722273086/ecommerce-carrefour/61ZSD7-0gpL._AC_SL1500__hf8vcf.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722273097/ecommerce-carrefour/616IvCxxIpL._AC_SL1500__wcg6pu.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722273102/ecommerce-carrefour/71Y5Zhy6xNL._AC_SL1500__y3z1o1.jpg"
+          ],
+          "discount": 0,
+          "_id": {
+            "$oid": "66a7cd8e087c8328bd990f54"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66a7cd8e087c8328bd990f53"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-29T15:39:44.045Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-17T03:10:13.288Z"
+  },
+  "__v": 0,
+  "content": "The 13-inch MacBook Pro 2022 with M2 chip is ideal for users who want a capable laptop for varied tasks like video editing, programming, content creation, and general daily use.\n",
+  "featured": true
+},
+{
+  "_id": {
+    "$oid": "66a7e83d087c8328bd991930"
+  },
+  "name": "sceptre new 27-inch gaming monitor 100hz 1ms displayport hdm",
+  "slug": "sceptre-new-27-inch-gaming-monitor-100hz-1ms-displayport-hdm",
+  "description": "sceptre new 27-inch gaming monitor 100hz 1ms displayport hdmi x2 100% srgb amd freesync build-in speakers, eye care frameless machine black 2024 (e275w-fw100t)",
+  "category": {
+    "$oid": "668542de6c0c5a9794adb74a"
+  },
+  "subCategories": [
+    {
+      "$oid": "6694c711c2c44bfe362001de"
+    }
+  ],
+  "brand": {
+    "$oid": "668ad9e5ed4b0a535cfa6021"
+  },
+  "details": [],
+  "questions": [],
+  "reviews": [
+    {
+      "$oid": "66a9320beddecffd8d439130"
+    },
+    {
+      "$oid": "66cabf3c7d6a3745d45ac9f6"
+    }
+  ],
+  "subProducts": [
+    {
+      "sku": "TRT46TY",
+      "style": {
+        "color": "#ffffff",
+        "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722280505/ecommerce-carrefour/images_ythxvm.png",
+        "name": "24Inch"
+      },
+      "options": [
+        {
+          "qty": 4,
+          "price": 99.97,
+          "sold": 0,
+          "option": "75hz",
+          "images": [
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722280552/ecommerce-carrefour/71jdr9u9YhL._AC_SL1500__puebzs.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722280563/ecommerce-carrefour/71Hz2V-kzCL._AC_SL1500__jqllmw.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722280567/ecommerce-carrefour/71Lfn6fUgHL._AC_SL1500__yxzbhk.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722280571/ecommerce-carrefour/51JxWjNbgpL._AC_SL1500__wvkuvc.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722280576/ecommerce-carrefour/61SingUvk4L._AC_SL1500__ubdlsx.jpg"
+          ],
+          "discount": 20,
+          "_id": {
+            "$oid": "66a7eafb087c8328bd991961"
+          }
+        },
+        {
+          "qty": 4,
+          "price": 114.97,
+          "sold": 0,
+          "option": "100hz",
+          "images": [
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722280552/ecommerce-carrefour/71jdr9u9YhL._AC_SL1500__puebzs.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722280563/ecommerce-carrefour/71Hz2V-kzCL._AC_SL1500__jqllmw.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722280567/ecommerce-carrefour/71Lfn6fUgHL._AC_SL1500__yxzbhk.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722280571/ecommerce-carrefour/51JxWjNbgpL._AC_SL1500__wvkuvc.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722280576/ecommerce-carrefour/61SingUvk4L._AC_SL1500__ubdlsx.jpg"
+          ],
+          "discount": 22,
+          "_id": {
+            "$oid": "66a7eafb087c8328bd991962"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66a7eafb087c8328bd991960"
+      }
+    },
+    {
+      "sku": "TRT46TY",
+      "style": {
+        "color": "#ffffff",
+        "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722280505/ecommerce-carrefour/images_ythxvm.png",
+        "name": "27Inch"
+      },
+      "options": [
+        {
+          "qty": 4,
+          "price": 99.97,
+          "sold": 0,
+          "option": "75hz",
+          "images": [
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722280552/ecommerce-carrefour/71jdr9u9YhL._AC_SL1500__puebzs.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722280563/ecommerce-carrefour/71Hz2V-kzCL._AC_SL1500__jqllmw.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722280567/ecommerce-carrefour/71Lfn6fUgHL._AC_SL1500__yxzbhk.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722280571/ecommerce-carrefour/51JxWjNbgpL._AC_SL1500__wvkuvc.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722280576/ecommerce-carrefour/61SingUvk4L._AC_SL1500__ubdlsx.jpg"
+          ],
+          "discount": 20,
+          "_id": {
+            "$oid": "66a7eb46087c8328bd991972"
+          }
+        },
+        {
+          "qty": 4,
+          "price": 114.97,
+          "sold": 0,
+          "option": "100hz",
+          "images": [
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722280552/ecommerce-carrefour/71jdr9u9YhL._AC_SL1500__puebzs.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722280563/ecommerce-carrefour/71Hz2V-kzCL._AC_SL1500__jqllmw.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722280567/ecommerce-carrefour/71Lfn6fUgHL._AC_SL1500__yxzbhk.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722280571/ecommerce-carrefour/51JxWjNbgpL._AC_SL1500__wvkuvc.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722280576/ecommerce-carrefour/61SingUvk4L._AC_SL1500__ubdlsx.jpg"
+          ],
+          "discount": 22,
+          "_id": {
+            "$oid": "66a7eb46087c8328bd991973"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66a7eb46087c8328bd991971"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-29T19:06:37.389Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-25T05:21:00.664Z"
+  },
+  "__v": 0,
+  "featured": true
+},
+{
+  "_id": {
+    "$oid": "66a7d868087c8328bd9912aa"
+  },
+  "name": "apple 2024 macbook air 13-inch laptop with m3 chip: 8gb memory, 256gb",
+  "slug": "apple-2024-macbook-air-13-inch-laptop-with-m3-chip-8gb-memory-256gb",
+  "description": "apple 2024 macbook air 13-inch laptop with m3 chip: 8gb memory, 256gb storage; midnight with applecare+ (3 years)",
+  "category": {
+    "$oid": "668542de6c0c5a9794adb74a"
+  },
+  "subCategories": [
+    {
+      "$oid": "66855ac96c0c5a9794adb83f"
+    }
+  ],
+  "brand": {
+    "$oid": "668ad981ed4b0a535cfa6018"
+  },
+  "details": [
+    {
+      "name": "chip",
+      "value": "Apple M3 Chip",
+      "_id": {
+        "$oid": "66a7df7c087c8328bd9914d9"
+      }
+    },
+    {
+      "name": "Display",
+      "value": "Liquid Retina XDR display",
+      "_id": {
+        "$oid": "66a7df7c087c8328bd9914da"
+      }
+    },
+    {
+      "name": "memory",
+      "value": "8GB or 16GB unified memory",
+      "_id": {
+        "$oid": "66a7df7c087c8328bd9914db"
+      }
+    },
+    {
+      "name": "storage",
+      "value": "256GB SSD or 512 GB",
+      "_id": {
+        "$oid": "66a7df7c087c8328bd9914dc"
+      }
+    },
+    {
+      "name": "camera",
+      "value": "1080p FaceTime HD camera",
+      "_id": {
+        "$oid": "66a7df7c087c8328bd9914dd"
+      }
+    },
+    {
+      "name": "size and weight",
+      "value": "Height: 0.44 inch (1.13 cm)",
+      "_id": {
+        "$oid": "66a7e35d087c8328bd991753"
+      }
+    }
+  ],
+  "questions": [],
+  "reviews": [
+    {
+      "$oid": "66a932aaeddecffd8d43918c"
+    }
+  ],
+  "subProducts": [
+    {
+      "sku": "TRT46TY",
+      "style": {
+        "color": "#191970",
+        "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722276605/ecommerce-carrefour/download_pgergh.png",
+        "name": "midnight"
+      },
+      "options": [
+        {
+          "qty": 4,
+          "price": 1298,
+          "sold": 0,
+          "option": "8gb256ssd",
+          "images": [
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722276239/ecommerce-carrefour/61JJlVirlnL._AC_SL1500__erhqov.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722276245/ecommerce-carrefour/61LbQpnFNvL._AC_SL1500__hmtjjb.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722276249/ecommerce-carrefour/61S2t5yhVSL._AC_SL1500__cinv8a.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722276253/ecommerce-carrefour/71eamTIYCyL._AC_SL1500__ps4kqd.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722276256/ecommerce-carrefour/61wjuMmDtdL._AC_SL1500__dk9elo.jpg"
+          ],
+          "discount": 15,
+          "_id": {
+            "$oid": "66a7db04087c8328bd9912dc"
+          }
+        },
+        {
+          "qty": 4,
+          "price": 1498,
+          "sold": 0,
+          "option": "8gb512ssd",
+          "images": [
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722276239/ecommerce-carrefour/61JJlVirlnL._AC_SL1500__erhqov.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722276245/ecommerce-carrefour/61LbQpnFNvL._AC_SL1500__hmtjjb.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722276249/ecommerce-carrefour/61S2t5yhVSL._AC_SL1500__cinv8a.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722276253/ecommerce-carrefour/71eamTIYCyL._AC_SL1500__ps4kqd.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722276256/ecommerce-carrefour/61wjuMmDtdL._AC_SL1500__dk9elo.jpg"
+          ],
+          "discount": 13,
+          "_id": {
+            "$oid": "66a7db04087c8328bd9912dd"
+          }
+        },
+        {
+          "qty": 6,
+          "price": 1498,
+          "sold": 0,
+          "option": "16gb512ssd",
+          "images": [
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722276239/ecommerce-carrefour/61JJlVirlnL._AC_SL1500__erhqov.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722276245/ecommerce-carrefour/61LbQpnFNvL._AC_SL1500__hmtjjb.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722276249/ecommerce-carrefour/61S2t5yhVSL._AC_SL1500__cinv8a.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722276253/ecommerce-carrefour/71eamTIYCyL._AC_SL1500__ps4kqd.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722276256/ecommerce-carrefour/61wjuMmDtdL._AC_SL1500__dk9elo.jpg"
+          ],
+          "discount": 11,
+          "_id": {
+            "$oid": "66a7db04087c8328bd9912de"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66a7db04087c8328bd9912db"
+      }
+    },
+    {
+      "sku": "02938NBI",
+      "style": {
+        "color": "#f8f9ec",
+        "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722277047/ecommerce-carrefour/images_eoh1vd.jpg",
+        "name": "startlight"
+      },
+      "options": [
+        {
+          "qty": 2,
+          "price": 1298,
+          "sold": 0,
+          "option": "8gb256ssd",
+          "images": [
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722277184/ecommerce-carrefour/61px5DPq7NL._AC_SL1500__yy8s70.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722277191/ecommerce-carrefour/61wjuMmDtdL._AC_SL1500__rtfbie.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722277198/ecommerce-carrefour/71eamTIYCyL._AC_SL1500__coycui.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722277203/ecommerce-carrefour/61S2t5yhVSL._AC_SL1500__ygdsp1.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722277207/ecommerce-carrefour/61LbQpnFNvL._AC_SL1500__fprq72.jpg"
+          ],
+          "discount": 15,
+          "_id": {
+            "$oid": "66a7de6e087c8328bd9913e6"
+          }
+        },
+        {
+          "qty": 2,
+          "price": 1498,
+          "sold": 0,
+          "option": "8gb512ssd",
+          "images": [
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722277184/ecommerce-carrefour/61px5DPq7NL._AC_SL1500__yy8s70.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722277191/ecommerce-carrefour/61wjuMmDtdL._AC_SL1500__rtfbie.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722277198/ecommerce-carrefour/71eamTIYCyL._AC_SL1500__coycui.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722277203/ecommerce-carrefour/61S2t5yhVSL._AC_SL1500__ygdsp1.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722277207/ecommerce-carrefour/61LbQpnFNvL._AC_SL1500__fprq72.jpg"
+          ],
+          "discount": 13,
+          "_id": {
+            "$oid": "66a7de6e087c8328bd9913e7"
+          }
+        },
+        {
+          "qty": 4,
+          "price": 1698,
+          "sold": 0,
+          "option": "16gb512ssd",
+          "images": [
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722277184/ecommerce-carrefour/61px5DPq7NL._AC_SL1500__yy8s70.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722277191/ecommerce-carrefour/61wjuMmDtdL._AC_SL1500__rtfbie.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722277198/ecommerce-carrefour/71eamTIYCyL._AC_SL1500__coycui.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722277203/ecommerce-carrefour/61S2t5yhVSL._AC_SL1500__ygdsp1.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722277207/ecommerce-carrefour/61LbQpnFNvL._AC_SL1500__fprq72.jpg"
+          ],
+          "discount": 11,
+          "_id": {
+            "$oid": "66a7de6e087c8328bd9913e8"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66a7de6e087c8328bd9913e5"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-29T17:59:04.684Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-30T18:36:26.826Z"
+  },
+  "__v": 0,
+  "content": "Apple 2024 MacBook Air 13-inch Laptop with M3 chip: 16GB Memory, 512GB Storage; Starlight with AppleCare+ (3 Years)",
+  "featured": true
+},
+{
+  "_id": {
+    "$oid": "66a7e49d087c8328bd991789"
+  },
+  "name": "dell inspiron 15 3000 3520 business laptop computer 15.6'' fhd touchscreen,11th",
+  "slug": "dell-inspiron-15-3000-3520-business-laptop-computer-156-fhd-touchscreen11th",
+  "description": "dell inspiron 15 3000 3520 business laptop computer 15.6'' fhd touchscreen,11th gen intel 4 cores i5-1155g7, with microsoft office 365,12g,256gb, numeric keypad, wi-fi, webcam, hdmi, black",
+  "category": {
+    "$oid": "668542de6c0c5a9794adb74a"
+  },
+  "subCategories": [
+    {
+      "$oid": "669637c65798c9eb94de8227"
+    },
+    {
+      "$oid": "66855ac96c0c5a9794adb83f"
+    }
+  ],
+  "brand": {
+    "$oid": "668682108a0761593b5fe08b"
+  },
+  "details": [
+    {
+      "name": "Standing screen display size\t",
+      "value": "‎15.6 Inches",
+      "_id": {
+        "$oid": "66a7e7ac087c8328bd9918f8"
+      }
+    },
+    {
+      "name": "Screen Resolution\t",
+      "value": "‎1920 x 1080 pixels",
+      "_id": {
+        "$oid": "66a7e7ac087c8328bd9918f9"
+      }
+    },
+    {
+      "name": "Processor",
+      "value": "‎4.6 GHz apple_ci5",
+      "_id": {
+        "$oid": "66a7e7ac087c8328bd9918fa"
+      }
+    },
+    {
+      "name": "RAM",
+      "value": "DDR4",
+      "_id": {
+        "$oid": "66a7e7ac087c8328bd9918fb"
+      }
+    },
+    {
+      "name": "Number of USB 2.0 Ports\t",
+      "value": "2",
+      "_id": {
+        "$oid": "66a7e7ac087c8328bd9918fc"
+      }
+    },
+    {
+      "name": "Number of USB 3.0 Ports\t",
+      "value": "1",
+      "_id": {
+        "$oid": "66a7e7ac087c8328bd9918fd"
+      }
+    },
+    {
+      "name": "Average Battery Life (in hours)\t",
+      "value": "‎6.5 Hours",
+      "_id": {
+        "$oid": "66a7e7ac087c8328bd9918fe"
+      }
+    },
+    {
+      "name": "Operating System\t",
+      "value": "‎Windows 11 Pro",
+      "_id": {
+        "$oid": "66a7e7ac087c8328bd9918ff"
+      }
+    }
+  ],
+  "questions": [],
+  "reviews": [
+    {
+      "$oid": "66bc2faee4d3bc10078e178e"
+    },
+    {
+      "$oid": "66bc2fdfb134d8f510bf2f57"
+    },
+    {
+      "$oid": "66bc2fe5b134d8f510bf2f67"
+    },
+    {
+      "$oid": "66d58c8bf7b9c868c4bc0993"
+    },
+    {
+      "$oid": "66d58c9cf7b9c868c4bc09a3"
+    },
+    {
+      "$oid": "66d58ca8f7b9c868c4bc09b3"
+    },
+    {
+      "$oid": "66d58ca9f7b9c868c4bc09c3"
+    },
+    {
+      "$oid": "66d58caaf7b9c868c4bc09d3"
+    },
+    {
+      "$oid": "66d58cabf7b9c868c4bc09e3"
+    },
+    {
+      "$oid": "66d58cacf7b9c868c4bc09f3"
+    },
+    {
+      "$oid": "66d58cbbf7b9c868c4bc0a1d"
+    },
+    {
+      "$oid": "66d58cbef7b9c868c4bc0a2d"
+    },
+    {
+      "$oid": "66d58cc2f7b9c868c4bc0a3d"
+    },
+    {
+      "$oid": "66d58cc3f7b9c868c4bc0a4d"
+    }
+  ],
+  "subProducts": [
+    {
+      "sku": "02938NE6",
+      "style": {
+        "color": "#000000",
+        "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722279472/ecommerce-carrefour/black_a60oi8.jpg",
+        "name": "black"
+      },
+      "options": [
+        {
+          "qty": 9,
+          "price": 467,
+          "sold": 0,
+          "option": "12gb-256ssd",
+          "images": [
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722279515/ecommerce-carrefour/71gbrvRJI-L._AC_SL1500__zzfqnr.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722279520/ecommerce-carrefour/51KzNYJIVKL._AC_SL1213__bbnyaw.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722279528/ecommerce-carrefour/51B6AYSgQEL._AC_SL1213__itoc2s.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722279547/ecommerce-carrefour/715LBvCan5L._AC_SL1500__v3zxht.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722279554/ecommerce-carrefour/41VqetrFiLL._AC_SL1233__q2firq.jpg"
+          ],
+          "discount": 8,
+          "_id": {
+            "$oid": "66a7e740087c8328bd9917ef"
+          }
+        },
+        {
+          "qty": 9,
+          "price": 503,
+          "sold": 0,
+          "option": "16gb-1024ssd",
+          "images": [
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722279515/ecommerce-carrefour/71gbrvRJI-L._AC_SL1500__zzfqnr.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722279520/ecommerce-carrefour/51KzNYJIVKL._AC_SL1213__bbnyaw.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722279528/ecommerce-carrefour/51B6AYSgQEL._AC_SL1213__itoc2s.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722279547/ecommerce-carrefour/715LBvCan5L._AC_SL1500__v3zxht.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722279554/ecommerce-carrefour/41VqetrFiLL._AC_SL1233__q2firq.jpg"
+          ],
+          "discount": 0,
+          "_id": {
+            "$oid": "66a7e740087c8328bd9917f0"
+          }
+        },
+        {
+          "qty": 9,
+          "price": 499,
+          "sold": 0,
+          "option": "16gb-512ssd",
+          "images": [
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722279515/ecommerce-carrefour/71gbrvRJI-L._AC_SL1500__zzfqnr.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722279520/ecommerce-carrefour/51KzNYJIVKL._AC_SL1213__bbnyaw.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722279528/ecommerce-carrefour/51B6AYSgQEL._AC_SL1213__itoc2s.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722279547/ecommerce-carrefour/715LBvCan5L._AC_SL1500__v3zxht.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722279554/ecommerce-carrefour/41VqetrFiLL._AC_SL1233__q2firq.jpg"
+          ],
+          "discount": 8,
+          "_id": {
+            "$oid": "66a7e740087c8328bd9917f1"
+          }
+        },
+        {
+          "qty": 9,
+          "price": 485.97,
+          "sold": 0,
+          "option": "12gb-512ssd",
+          "images": [
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722279515/ecommerce-carrefour/71gbrvRJI-L._AC_SL1500__zzfqnr.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722279520/ecommerce-carrefour/51KzNYJIVKL._AC_SL1213__bbnyaw.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722279528/ecommerce-carrefour/51B6AYSgQEL._AC_SL1213__itoc2s.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722279547/ecommerce-carrefour/715LBvCan5L._AC_SL1500__v3zxht.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722279554/ecommerce-carrefour/41VqetrFiLL._AC_SL1233__q2firq.jpg"
+          ],
+          "discount": 9,
+          "_id": {
+            "$oid": "66a7e740087c8328bd9917f2"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66a7e740087c8328bd9917ee"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-29T18:51:09.622Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T10:00:35.393Z"
+  },
+  "__v": 0,
+  "content": "DELL Inspiron 15 3000 3520 Business Laptop Computer 15.6'' FHD Touchscreen,11th Gen Intel 4 Cores i5-1155G7, with Microsoft Office 365,12G,512GB, Numeric Keypad, Wi-Fi, Webcam, HDMI, Black",
+  "featured": true
+},
+{
+  "_id": {
+    "$oid": "66a837baab6bdb7c041fb886"
+  },
+  "featured": true,
+  "name": "acer predator helios neo 16 gaming laptop | intel core i7-13650hx | nvidia geforce rtx 4060 ",
+  "slug": "acer-predator-helios-neo-16-gaming-laptop--intel-core-i7-13650hx--nvidia-geforce-rtx-4060",
+  "description": "acer predator helios neo 16 gaming laptop | intel core i7-13650hx | nvidia geforce rtx 4060 | 16\" wuxga 1920 x 1200 165hz g-sync display | 16gb ddr5 | 512gb gen 4 ssd | killer wi-fi 6e | phn16-71-76h5",
+  "category": {
+    "$oid": "668542de6c0c5a9794adb74a"
+  },
+  "subCategories": [
+    {
+      "$oid": "66855ae26c0c5a9794adb844"
+    }
+  ],
+  "brand": {
+    "$oid": "668ad888ed4b0a535cfa600c"
+  },
+  "details": [
+    {
+      "name": "model",
+      "value": "Predator Helios Neo 16 Gaming Laptop",
+      "_id": {
+        "$oid": "66a848fcab6bdb7c041fb9ff"
+      }
+    }
+  ],
+  "questions": [],
+  "reviews": [
+    {
+      "$oid": "66a92e51eddecffd8d438de2"
+    },
+    {
+      "$oid": "66a92ee6eddecffd8d438ebe"
+    },
+    {
+      "$oid": "66bc31cc434f352d43dc9eeb"
+    },
+    {
+      "$oid": "66bca9565b9c51b599875f95"
+    },
+    {
+      "$oid": "66be06e7eb8fcbd68060ad27"
+    },
+    {
+      "$oid": "66c15f2bc0914b7e5764922b"
+    }
+  ],
+  "subProducts": [
+    {
+      "sku": "02938NER",
+      "style": {
+        "color": "#ffdsh",
+        "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722303121/ecommerce-carrefour/black_frem7q.jpg",
+        "name": "blacka"
+      },
+      "options": [
+        {
+          "qty": 9,
+          "price": 1280,
+          "sold": 0,
+          "option": "i914900hxrtx4070",
+          "images": [
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722303126/ecommerce-carrefour/81Ql_nOEynL._AC_SL1500__asc8jp.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722303131/ecommerce-carrefour/71bruD2HxZL._AC_SL1500__a115xr.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722303135/ecommerce-carrefour/81J5BoEtbgL._AC_SL1500__duojqb.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722303139/ecommerce-carrefour/81uNIFnGHvL._AC_SL1500__vo64bw.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722303144/ecommerce-carrefour/81c6-AKtbmL._AC_SL1500__tyfrmj.jpg"
+          ],
+          "discount": 0,
+          "_id": {
+            "$oid": "66a84786ab6bdb7c041fb9af"
+          }
+        },
+        {
+          "qty": 9,
+          "price": 1280,
+          "sold": 0,
+          "option": "i913890hxrtx4070",
+          "images": [
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722303126/ecommerce-carrefour/81Ql_nOEynL._AC_SL1500__asc8jp.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722303131/ecommerce-carrefour/71bruD2HxZL._AC_SL1500__a115xr.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722303135/ecommerce-carrefour/81J5BoEtbgL._AC_SL1500__duojqb.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722303139/ecommerce-carrefour/81uNIFnGHvL._AC_SL1500__vo64bw.jpg",
+            "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1722303144/ecommerce-carrefour/81c6-AKtbmL._AC_SL1500__tyfrmj.jpg"
+          ],
+          "discount": 0,
+          "_id": {
+            "$oid": "66a84786ab6bdb7c041fb9b0"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66a84786ab6bdb7c041fb9ae"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-30T00:45:47.016Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-18T02:40:43.976Z"
+  },
+  "__v": 0,
+  "content": "Acer Predator Helios Neo 16 Gaming Laptop | Intel Core i7-13650HX | NVIDIA GeForce RTX 4060 | 16\" WUXGA 1920 x 1200 165Hz G-SYNC Display | 16GB DDR5 | 512GB Gen 4 SSD | Killer Wi-Fi 6E | PHN16-71-76H5"
+}]

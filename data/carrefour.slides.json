@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "669e202e14b74776be3455f8"
+  },
+  "name": "banner home",
+  "slug": "banner-home",
+  "link": "categories/laptops/products",
+  "title": "Best deals on laptops",
+  "subtitle": "A pack for laptops and computers up to 50% off limited edition.",
+  "btn": "shop now",
+  "textColor": "#ffffff",
+  "__v": 0,
+  "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1721652780/banner1_2_zy539h.png"
+},
+{
+  "_id": {
+    "$oid": "669d750b6c79cd41c3330a26"
+  },
+  "name": "banner home",
+  "slug": "banner-home",
+  "link": "products/esr-for-iphone-15-pro-max-case-with-magsafe-supports-magnetic-charging-slim",
+  "title": "iphone 15 Pro Max",
+  "subtitle": "The iPhone 15 Pro Max features an aerospace-grade titanium design, both lightweight and durablen  stronger than any others",
+  "btn": "shop now",
+  "__v": 0,
+  "textColor": "#ffffff",
+  "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1721634138/Exclusive_Phone_3_locsg3.png"
+},
+{
+  "_id": {
+    "$oid": "66a058cb0538a1d510a24bbb"
+  },
+  "name": "cta home",
+  "slug": "cta-home",
+  "link": "products",
+  "title": "",
+  "subtitle": "up to 50 Off",
+  "btn": "shop now",
+  "textColor": "#ffffff",
+  "__v": 0,
+  "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1721822386/Design_sans_titre_wobep6.png"
+},
+{
+  "_id": {
+    "$oid": "66a02b3553b60122baec4b2a"
+  },
+  "name": "banner home",
+  "slug": "banner-category",
+  "link": "products/promotion/products",
+  "title": "Best deals for your selection",
+  "subtitle": "A pack for laptops and computers up to 50% off limited edition.",
+  "btn": "shop now",
+  "textColor": "#ffffff",
+  "__v": 0,
+  "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1721775480/banner_home_2_c4g4cr.png"
+},
+{
+  "_id": {
+    "$oid": "66a0c7800538a1d510a24bbc"
+  },
+  "name": "banner home",
+  "slug": "banner-home",
+  "link": "products",
+  "title": "",
+  "subtitle": "",
+  "btn": "",
+  "textColor": "#ffffff",
+  "__v": 0,
+  "image": "https://res.cloudinary.com/dlm0ieiyt/image/upload/v1721819976/black_friday_rleomv.png"
+}]
